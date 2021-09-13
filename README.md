@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @KskiCode
 - 👀 I’m interested in Machine Learning
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning Scikit-Learn, Keras and Tensorflow
+- 💞️ I’m looking to collaborate on Machine Learning / Artificial Intelligence
 - 📫 How to reach me ...
 
 <!---
