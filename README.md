@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @KskiCode
 - 👀 I’m interested in Machine Learning and Deep Learning
-- 💞️ I like to work with TensorFlow, Keras and scikit-learn. Recently I got a little in touch with PyTorch. 
+- 💞️ I like to work with TensorFlow, Keras and scikit-learn.
 
 
 I am currently working on projects in the field of Process Mining where I use different OCR and Computer Vision tools.
