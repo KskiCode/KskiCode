@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @KskiCode
-- 👀 I’m interested in Machine Learning and Deep Learning
+- 👀 I’m interested in Machine Learning
 - 💞️ I like to work with TensorFlow, Keras and scikit-learn.
 
 
